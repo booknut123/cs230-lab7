@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomQueue
+comment0.text=\n\ RandomQueue.java\n\ \n\ RandomQueue\ should\ be\ a\ subclass\ of\ LinkedQueue,\ meaning\ the\ keyword\ is\ "extends".\n\ Therefore\ it\ should\ also\ be\ in\ the\ javafoundations\ package.\n\ dequeueRandom()\ is\ most\ similar\ to\ dequeue\ except\ instead\ of\ automatically\ dequeueing\ the\ first,\ it\ removes\ a\ random\ element.\ The\ same\ exception\ (empty\ collection)\ should\ be\ checked.\n\ Not\ much\ other\ than\ dequeueRandom()\ needs\ to\ be\ tested\ (although\ extra\ testing\ ensures\ the\ subclass\ was\ properly\ implemented).\n\ \n\ @author\ Kailyn\ Lau\n\ @version\ v1.0\n
+comment1.params=
+comment1.target=RandomQueue()
+comment2.params=
+comment2.target=java.lang.Object\ dequeueRandom()
+comment2.text=\n\ Removes\ an\ element\ from\ a\ random\ position\ in\ the\ queue\n\ Throws\ an\ EmptyCollectionException\ if\ the\ queue\ is\ empty\n\ \n\ @return\ a\ random\ element\ that\ will\ be\ removed\ from\ the\ queue\n
+numComments=3

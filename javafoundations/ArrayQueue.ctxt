@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ArrayQueue
+comment1.params=
+comment1.target=ArrayQueue()
+comment2.params=
+comment2.target=java.lang.Object\ dequeue()
+comment3.params=element
+comment3.target=void\ enqueue(java.lang.Object)
+comment3.text=\n\ Adds\ element\ T\ to\ the\ end\ of\ the\ queue\ (expands\ queue\ if\ necessary)\n\ \n\ @param\ element\ the\ element\ to\ add\n
+comment4.params=
+comment4.target=void\ expandCapacity()
+comment4.text=\n\ Helper\ method\ expandCapacity\ to\ double\ array\ size\n
+comment5.params=
+comment5.target=java.lang.Object\ first()
+comment5.text=\n\ @return\ the\ first\ element\ in\ the\ array\n
+comment6.params=
+comment6.target=boolean\ isEmpty()
+comment6.text=\n\ @return\ true\ if\ queue\ is\ empty\ (count\ \=\ 0;\ no\ elements\ in\ queue)\n
+comment7.params=
+comment7.target=int\ size()
+comment7.text=\n\ @return\ the\ size\ of\ the\ array\ (how\ many\ elements)\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ @return\ a\ String\ representation\ of\ toString()\n
+numComments=9
